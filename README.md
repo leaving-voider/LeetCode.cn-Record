@@ -15,4 +15,4 @@
 |---|---|---
 |[959. 由斜杠划分区域](https://leetcode-cn.com/problems/regions-cut-by-slashes/)|[regions-cut-by-slashes](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/959-regions-cut-by-slashes.py)|中等
 |[1579. 保证图可完全遍历](https://leetcode-cn.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)|[remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable.py)|困难
-
+|[1631. 最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort/)|[path-with-minimum-effort](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1631-path-with-minimum-effort.py)|中等

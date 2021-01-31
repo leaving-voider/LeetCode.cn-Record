@@ -17,3 +17,4 @@
 |[1579. 保证图可完全遍历](https://leetcode-cn.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)|[remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable.py)|困难
 |[1631. 最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort/)|[path-with-minimum-effort](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1631-path-with-minimum-effort.py)|中等
 |[778. 水位上升的泳池中游泳](https://leetcode-cn.com/problems/swim-in-rising-water/)|[swim-in-rising-water](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/778-swim-in-rising-water.py)|困难
+|[839. 相似字符串组](https://leetcode-cn.com/problems/similar-string-groups/)|[similar-string-groups](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/839-similar-string-groups.py)|困难

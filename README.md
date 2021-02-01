@@ -10,6 +10,10 @@
 |[1128. 等价多米诺骨牌对的数量](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/)|[number-of-equivalent-domino-pairs](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1128-number-of-equivalent-domino-pairs.py)|简单
 |[724. 寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/)|[find-pivot-index](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/724-find-pivot-index.py)|简单
 
+**哈希表**
+|[888. 公平的糖果棒交换](https://leetcode-cn.com/problems/fair-candy-swap/)|[fair-candy-swap](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/888-fair-candy-swap.py)|简单
+
+
 **并查集（图）**
 |leetcode题目|Python代码|难度|
 |---|---|---

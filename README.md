@@ -20,6 +20,10 @@
 |---|---|---
 |[424. 替换后的最长重复字符](https://leetcode-cn.com/problems/longest-repeating-character-replacement/)|[longest-repeating-character-replacement](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/424-longest-repeating-character-replacement.py)|中等
 
+**滑动窗口（大小根堆）**
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[480. 滑动窗口中位数](https://leetcode-cn.com/problems/sliding-window-median/)|[sliding-window-median](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/480-sliding-window-median.py)|困难
 
 **并查集（图）**
 |leetcode题目|Python代码|难度|

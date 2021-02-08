@@ -10,6 +10,7 @@
 |[1128. 等价多米诺骨牌对的数量](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/)|[number-of-equivalent-domino-pairs](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1128-number-of-equivalent-domino-pairs.py)|简单
 |[724. 寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/)|[find-pivot-index](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/724-find-pivot-index.py)|简单
 |[665. 非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/)|[non-decreasing-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/665-non-decreasing-array.py)|简单
+|[978. 最长湍流子数组](https://leetcode-cn.com/problems/longest-turbulent-subarray/)|[longest-turbulent-subarray](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/978-longest-turbulent-subarray.py)|中等
 
 **哈希表**
 |leetcode题目|Python代码|难度|

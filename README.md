@@ -11,6 +11,8 @@
 |[724. 寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/)|[find-pivot-index](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/724-find-pivot-index.py)|简单
 |[665. 非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/)|[non-decreasing-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/665-non-decreasing-array.py)|简单
 |[978. 最长湍流子数组](https://leetcode-cn.com/problems/longest-turbulent-subarray/)|[longest-turbulent-subarray](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/978-longest-turbulent-subarray.py)|中等
+|[832. 翻转图像](https://leetcode-cn.com/problems/flipping-an-image/)|[flipping-an-image](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/832-flipping-an-image.py)|简单
+
 
 **哈希表**
 |leetcode题目|Python代码|难度|

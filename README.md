@@ -18,6 +18,7 @@
 |leetcode题目|Python代码|难度|
 |---|---|---
 |[888. 公平的糖果棒交换](https://leetcode-cn.com/problems/fair-candy-swap/)|[fair-candy-swap](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/888-fair-candy-swap.py)|简单
+|[554. 砖墙](https://leetcode-cn.com/problems/brick-wall/)|[brick-wall](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/554-brick-wall.py)|中等
 
 **双指针**
 |leetcode题目|Python代码|难度|

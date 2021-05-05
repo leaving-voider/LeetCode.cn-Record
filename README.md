@@ -45,3 +45,4 @@
 |leetcode题目|Python代码|难度|
 |---|---|---
 |[1473. 粉刷房子 III](https://leetcode-cn.com/problems/paint-house-iii/)|[paint-house-iii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1473-paint-house-iii.py)|困难
+|[198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)|[house-robber](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/198-house-robber.py)|中等

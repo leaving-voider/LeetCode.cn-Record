@@ -50,3 +50,6 @@
 |[198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)|[house-robber](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/198-house-robber.py)|中等
 |[740. 删除并获得点数](https://leetcode-cn.com/problems/delete-and-earn/)|[delete-and-earn](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/740-delete-and-earn.py)|中等
 |[300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|[longest-increasing-subsequence](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/300-longest-increasing-subsequence.py)|中等
+
+**二分**
+|[面试题 17.08. 马戏团人塔](https://leetcode-cn.com/problems/circus-tower-lcci/)|[circus-tower-lcci](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.08-circus-tower-lcci.py)|中等

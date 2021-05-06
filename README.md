@@ -55,3 +55,4 @@
 |leetcode题目|Python代码|难度|
 |---|---|---
 |[面试题 17.08. 马戏团人塔](https://leetcode-cn.com/problems/circus-tower-lcci/)|[circus-tower-lcci](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.08-circus-tower-lcci.py)|中等
+|[354. 俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/)|[russian-doll-envelopes](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/354-russian-doll-envelopes.py)|困难

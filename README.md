@@ -52,4 +52,6 @@
 |[300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|[longest-increasing-subsequence](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/300-longest-increasing-subsequence.py)|中等
 
 **二分**
+|leetcode题目|Python代码|难度|
+|---|---|---
 |[面试题 17.08. 马戏团人塔](https://leetcode-cn.com/problems/circus-tower-lcci/)|[circus-tower-lcci](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.08-circus-tower-lcci.py)|中等

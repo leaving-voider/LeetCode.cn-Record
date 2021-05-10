@@ -18,6 +18,11 @@
 |[1720. 解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/)|[decode-xored-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1720-decode-xored-array.py)|简单
 |[1486. 数组异或操作](https://leetcode-cn.com/problems/xor-operation-in-an-array/)|[xor-operation-in-an-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1486-xor-operation-in-an-array.py)|简单
 
+**树**
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[872. 叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/)|[leaf-similar-trees](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/872-leaf-similar-trees.py)|简单
+
 **哈希表**
 |leetcode题目|Python代码|难度|
 |---|---|---

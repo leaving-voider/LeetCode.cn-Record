@@ -18,6 +18,7 @@
 |[1720. 解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/)|[decode-xored-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1720-decode-xored-array.py)|简单
 |[1486. 数组异或操作](https://leetcode-cn.com/problems/xor-operation-in-an-array/)|[xor-operation-in-an-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1486-xor-operation-in-an-array.py)|简单
 |[1734. 解码异或后的排列](https://leetcode-cn.com/problems/decode-xored-permutation/)|[decode-xored-permutation](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1734-decode-xored-permutation.py)|中等
+|[1310. 子数组异或查询](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/)|[xor-queries-of-a-subarray](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1310-xor-queries-of-a-subarray.py)|中等
 
 **树**
 |leetcode题目|Python代码|难度|

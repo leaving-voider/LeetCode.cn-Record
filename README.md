@@ -20,6 +20,7 @@
 |[1734. 解码异或后的排列](https://leetcode-cn.com/problems/decode-xored-permutation/)|[decode-xored-permutation](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1734-decode-xored-permutation.py)|中等
 |[1310. 子数组异或查询](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/)|[xor-queries-of-a-subarray](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1310-xor-queries-of-a-subarray.py)|中等
 |[12. 整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/)|[integer-to-roman](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/12-integer-to-roman.py)|中等
+|[13. 罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/)|[roman-to-integer](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/13-roman-to-integer.py)|简单
 
 **树**
 |leetcode题目|Python代码|难度|

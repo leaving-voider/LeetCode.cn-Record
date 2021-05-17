@@ -26,6 +26,7 @@
 |leetcode题目|Python代码|难度|
 |---|---|---
 |[872. 叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/)|[leaf-similar-trees](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/872-leaf-similar-trees.py)|简单
+|[993. 二叉树的堂兄弟节点](https://leetcode-cn.com/problems/cousins-in-binary-tree/)|[cousins-in-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/993-cousins-in-binary-tree.py)|简单
 
 **哈希表**
 |leetcode题目|Python代码|难度|

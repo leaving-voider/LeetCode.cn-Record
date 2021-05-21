@@ -66,6 +66,7 @@
 |[740. 删除并获得点数](https://leetcode-cn.com/problems/delete-and-earn/)|[delete-and-earn](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/740-delete-and-earn.py)|中等
 |[300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|[longest-increasing-subsequence](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/300-longest-increasing-subsequence.py)|中等
 |[1269. 停在原地的方案数](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/)|[number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps.py)|困难
+|[1035. 不相交的线](https://leetcode-cn.com/problems/uncrossed-lines/)|[uncrossed-lines](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1035-uncrossed-lines.py)|中等
 
 **二分**
 |leetcode题目|Python代码|难度|

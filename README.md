@@ -71,6 +71,7 @@
 |[1269. 停在原地的方案数](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/)|[number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps.py)|困难
 |[1035. 不相交的线](https://leetcode-cn.com/problems/uncrossed-lines/)|[uncrossed-lines](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1035-uncrossed-lines.py)|中等
 |[664. 奇怪的打印机](https://leetcode-cn.com/problems/strange-printer/)|[strange-printer](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/664-strange-printer.py)|困难
+|[1787. 使所有区间的异或结果为零](https://leetcode-cn.com/problems/make-the-xor-of-all-segments-equal-to-zero/)|[make-the-xor-of-all-segments-equal-to-zero](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1787-make-the-xor-of-all-segments-equal-to-zero.py)|困难
 
 **二分**
 |leetcode题目|Python代码|难度|

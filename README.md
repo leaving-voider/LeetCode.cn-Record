@@ -25,6 +25,7 @@
 |[1738. 找出第 K 大的异或坐标值](https://leetcode-cn.com/problems/find-kth-largest-xor-coordinate-value/)|[find-kth-largest-xor-coordinate-value](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1738-find-kth-largest-xor-coordinate-value.py)|中等
 |[692. 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/)|[top-k-frequent-words](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/692-top-k-frequent-words.py)|中等
 |[810. 黑板异或游戏](https://leetcode-cn.com/problems/chalkboard-xor-game/)|[chalkboard-xor-game](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/810-chalkboard-xor-game.py)|困难
+|[461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/)|[hamming-distance](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/461-hamming-distance.py)|简单
 
 **树**
 |leetcode题目|Python代码|难度|

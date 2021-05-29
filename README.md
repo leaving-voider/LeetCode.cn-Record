@@ -43,6 +43,7 @@
 |[554. 砖墙](https://leetcode-cn.com/problems/brick-wall/)|[brick-wall](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/554-brick-wall.py)|中等
 |[421. 数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[maximum-xor-of-two-numbers-in-an-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/421-maximum-xor-of-two-numbers-in-an-array.py)|中等
 |[560. 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|[subarray-sum-equals-k](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/560-subarray-sum-equals-k.py)|中等
+|[1074. 元素和为目标值的子矩阵数量](https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target/)|[number-of-submatrices-that-sum-to-target](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1074-number-of-submatrices-that-sum-to-target.py)|困难
 
 **双指针**
 |leetcode题目|Python代码|难度|

@@ -42,6 +42,7 @@
 |[888. 公平的糖果棒交换](https://leetcode-cn.com/problems/fair-candy-swap/)|[fair-candy-swap](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/888-fair-candy-swap.py)|简单
 |[554. 砖墙](https://leetcode-cn.com/problems/brick-wall/)|[brick-wall](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/554-brick-wall.py)|中等
 |[421. 数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[maximum-xor-of-two-numbers-in-an-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/421-maximum-xor-of-two-numbers-in-an-array.py)|中等
+|[560. 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|[subarray-sum-equals-k](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/560-subarray-sum-equals-k.py)|中等
 
 **双指针**
 |leetcode题目|Python代码|难度|

@@ -3,6 +3,11 @@
 本项目用于记录个人LeetCode刷题代码，采用python语言，代码包含一定注释
 
 ## Record
+**基础数学**
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[231. 2 的幂](https://leetcode-cn.com/problems/power-of-two/)|[power-of-two](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/231-power-of-two.py)|简单
+
 **数组和字符串**
 |leetcode题目|Python代码|难度|
 |---|---|---

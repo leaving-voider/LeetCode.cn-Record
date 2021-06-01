@@ -34,6 +34,7 @@
 |[810. 黑板异或游戏](https://leetcode-cn.com/problems/chalkboard-xor-game/)|[chalkboard-xor-game](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/810-chalkboard-xor-game.py)|困难
 |[461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/)|[hamming-distance](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/461-hamming-distance.py)|简单
 |[477. 汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance/)|[total-hamming-distance](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/477-total-hamming-distance.py)|中等
+|[1744. 你能在你最喜欢的那天吃到你最喜欢的糖果吗？](https://leetcode-cn.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/)|[can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1744-can-you-eat-your-favorite-candy-on-your-favorite-day.py)|中等
 
 **树**
 |leetcode题目|Python代码|难度|

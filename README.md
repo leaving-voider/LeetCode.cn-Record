@@ -34,7 +34,6 @@
 |[810. 黑板异或游戏](https://leetcode-cn.com/problems/chalkboard-xor-game/)|[chalkboard-xor-game](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/810-chalkboard-xor-game.py)|困难
 |[461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/)|[hamming-distance](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/461-hamming-distance.py)|简单
 |[477. 汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance/)|[total-hamming-distance](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/477-total-hamming-distance.py)|中等
-|[1744. 你能在你最喜欢那天吃到你最喜欢糖果吗？](https://leetcode-cn.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/)|[can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1744-can-you-eat-your-favorite-candy-on-your-favorite-day.py)|中等
 
 **树**
 |leetcode题目|Python代码|难度|
@@ -52,6 +51,8 @@
 |[421. 数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[maximum-xor-of-two-numbers-in-an-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/421-maximum-xor-of-two-numbers-in-an-array.py)|中等
 |[560. 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|[subarray-sum-equals-k](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/560-subarray-sum-equals-k.py)|中等
 |[1074. 元素和为目标值的子矩阵数量](https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target/)|[number-of-submatrices-that-sum-to-target](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1074-number-of-submatrices-that-sum-to-target.py)|困难
+|[1744. 你能在最喜欢那天吃到最喜欢糖果吗？](https://leetcode-cn.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/)|[can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1744-can-you-eat-your-favorite-candy-on-your-favorite-day.py)|中等
+|[523. 连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/)|[continuous-subarray-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/523-continuous-subarray-sum.py)|中等
 
 **双指针**
 |leetcode题目|Python代码|难度|

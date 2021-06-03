@@ -53,6 +53,7 @@
 |[560. 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|[subarray-sum-equals-k](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/560-subarray-sum-equals-k.py)|中等
 |[1074. 元素和为目标值的子矩阵数量](https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target/)|[number-of-submatrices-that-sum-to-target](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1074-number-of-submatrices-that-sum-to-target.py)|困难
 |[523. 连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/)|[continuous-subarray-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/523-continuous-subarray-sum.py)|中等
+|[525. 连续数组](https://leetcode-cn.com/problems/contiguous-array/)|[contiguous-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/525-contiguous-array.py)|中等
 
 **双指针**
 |leetcode题目|Python代码|难度|

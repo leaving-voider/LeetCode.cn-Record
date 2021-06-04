@@ -9,6 +9,10 @@
 |[231. 2 的幂](https://leetcode-cn.com/problems/power-of-two/)|[power-of-two](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/231-power-of-two.py)|简单
 |[342. 4的幂](https://leetcode-cn.com/problems/power-of-four/)|[power-of-four](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/342-power-of-four.py)|简单
 
+**基础数学**
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|[intersection-of-two-linked-lists](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/160-intersection-of-two-linked-lists.py)|简单
 
 **数组和字符串**
 |leetcode题目|Python代码|难度|

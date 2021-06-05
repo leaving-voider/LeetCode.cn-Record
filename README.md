@@ -13,6 +13,7 @@
 |leetcode题目|Python代码|难度|
 |---|---|---
 |[160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|[intersection-of-two-linked-lists](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/160-intersection-of-two-linked-lists.py)|简单
+|[203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)|[remove-linked-list-elements](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/203-remove-linked-list-elements.py)|简单
 
 **数组和字符串**
 |leetcode题目|Python代码|难度|

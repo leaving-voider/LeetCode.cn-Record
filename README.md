@@ -92,6 +92,7 @@
 |[664. 奇怪的打印机](https://leetcode-cn.com/problems/strange-printer/)|[strange-printer](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/664-strange-printer.py)|困难
 |[1787. 使所有区间的异或结果为零](https://leetcode-cn.com/problems/make-the-xor-of-all-segments-equal-to-zero/)|[make-the-xor-of-all-segments-equal-to-zero](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1787-make-the-xor-of-all-segments-equal-to-zero.py)|困难
 |（类似01背包问题）[474. 一和零](https://leetcode-cn.com/problems/ones-and-zeroes/)|[ones-and-zeroes](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/474-ones-and-zeroes.py)|中等
+|（转化为背包问题）[494. 目标和](https://leetcode-cn.com/problems/target-sum/)|[target-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/494-target-sum.py)|中等
 
 **二分**
 |leetcode题目|Python代码|难度|

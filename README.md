@@ -95,6 +95,7 @@
 |（转背包问题）[494. 目标和](https://leetcode-cn.com/problems/target-sum/)|[target-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/494-target-sum.py)|中等
 |（转背包）[1049. 最后一块石头重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/)|[last-stone-weight-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1049-last-stone-weight-ii.py)|中等
 |(动规最和恰好的定义)[879. 盈利计划](https://leetcode-cn.com/problems/profitable-schemes/)|[profitable-schemes](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/879-profitable-schemes.py)|困难
+|[518. 零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/)|[coin-change-2](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/518-coin-change-2.py)|中等
 
 **二分**
 |leetcode题目|Python代码|难度|

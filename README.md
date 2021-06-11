@@ -9,7 +9,7 @@
 |[231. 2 的幂](https://leetcode-cn.com/problems/power-of-two/)|[power-of-two](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/231-power-of-two.py)|简单
 |[342. 4的幂](https://leetcode-cn.com/problems/power-of-four/)|[power-of-four](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/342-power-of-four.py)|简单
 
-**基础数学**
+**链表**
 |leetcode题目|Python代码|难度|
 |---|---|---
 |[160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|[intersection-of-two-linked-lists](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/160-intersection-of-two-linked-lists.py)|简单
@@ -96,6 +96,7 @@
 |（转背包）[1049. 最后一块石头重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/)|[last-stone-weight-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1049-last-stone-weight-ii.py)|中等
 |(动规最和恰好的定义)[879. 盈利计划](https://leetcode-cn.com/problems/profitable-schemes/)|[profitable-schemes](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/879-profitable-schemes.py)|困难
 |[518. 零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/)|[coin-change-2](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/518-coin-change-2.py)|中等
+|(包含个数学定理)[279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/)|[perfect-squares](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/279-perfect-squares.py)|中等
 
 **二分**
 |leetcode题目|Python代码|难度|

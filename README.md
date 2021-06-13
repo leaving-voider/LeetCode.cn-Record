@@ -40,6 +40,7 @@
 |[461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/)|[hamming-distance](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/461-hamming-distance.py)|简单
 |[477. 汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance/)|[total-hamming-distance](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/477-total-hamming-distance.py)|中等
 |[1744. 你能在最喜欢那天吃到最喜欢糖果吗？](https://leetcode-cn.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/)|[can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1744-can-you-eat-your-favorite-candy-on-your-favorite-day.py)|中等
+|[278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)|[first-bad-version](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/278-first-bad-version.py)|简单
 
 **树**
 |leetcode题目|Python代码|难度|

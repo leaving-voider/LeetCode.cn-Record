@@ -101,6 +101,7 @@
 |[518. 零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/)|[coin-change-2](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/518-coin-change-2.py)|中等
 |(包含个数学定理)[279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/)|[perfect-squares](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/279-perfect-squares.py)|中等
 |[1449. 数位成本和为目标值的最大数字](https://leetcode-cn.com/problems/form-largest-integer-with-digits-that-add-up-to-target/)|[form-largest-integer-with-digits-that-add-up-to-target](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1449-form-largest-integer-with-digits-that-add-up-to-target.py)|困难
+|[486. 预测赢家](https://leetcode-cn.com/problems/predict-the-winner/)|[predict-the-winner](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/486-predict-the-winner.py)|中等
 
 **二分**
 |leetcode题目|Python代码|难度|

@@ -10,6 +10,8 @@
 |[342. 4的幂](https://leetcode-cn.com/problems/power-of-four/)|[power-of-four](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/342-power-of-four.py)|简单
 
 **进阶数学**
+|leetcode题目|Python代码|难度|
+|---|---|---
 |[483. 最小好进制](https://leetcode-cn.com/problems/smallest-good-base/)|[smallest-good-base](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/483-smallest-good-base.py)|困难
 
 **链表**

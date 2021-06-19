@@ -108,6 +108,7 @@
 |[1449. 数位成本和为目标值的最大数字](https://leetcode-cn.com/problems/form-largest-integer-with-digits-that-add-up-to-target/)|[form-largest-integer-with-digits-that-add-up-to-target](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1449-form-largest-integer-with-digits-that-add-up-to-target.py)|困难
 |[486. 预测赢家](https://leetcode-cn.com/problems/predict-the-winner/)|[predict-the-winner](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/486-predict-the-winner.py)|中等
 |(含数学)[877. 石子游戏](https://leetcode-cn.com/problems/stone-game/)|[stone-game](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/877-stone-game.py)|中等
+|[1239. 串联字符串的最大长度](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1239-maximum-length-of-a-concatenated-string-with-unique-characters.py)|中等
 
 **二分**
 |leetcode题目|Python代码|难度|

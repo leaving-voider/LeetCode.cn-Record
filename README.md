@@ -56,6 +56,7 @@
 |[993. 二叉树的堂兄弟节点](https://leetcode-cn.com/problems/cousins-in-binary-tree/)|[cousins-in-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/993-cousins-in-binary-tree.py)|简单
 |[208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)|[implement-trie-prefix-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/208-implement-trie-prefix-tree.py)|中等
 |[1707. 与数组中元素的最大异或值](https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array/)|[maximum-xor-with-an-element-from-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1707-maximum-xor-with-an-element-from-array.py)|困难
+|[1600. 皇位继承顺序](https://leetcode-cn.com/problems/throne-inheritance/)|[throne-inheritance](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1600-throne-inheritance.py)|中等
 
 **哈希表**
 |leetcode题目|Python代码|难度|

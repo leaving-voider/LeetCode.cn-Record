@@ -130,8 +130,12 @@
 |---|---|---
 |[1190. 反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|[reverse-substrings-between-each-pair-of-parentheses](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1190-reverse-substrings-between-each-pair-of-parentheses.py)|中等
 
-
 **自动机**
 |leetcode题目|Python代码|难度|
 |---|---|---
 |[65. 有效数字](https://leetcode-cn.com/problems/valid-number/)|[valid-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/65-valid-number.py)|困难
+
+**C++标准库**
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/)|[next-permutation](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/31-next-permutation.py)|中等

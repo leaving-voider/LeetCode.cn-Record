@@ -135,7 +135,8 @@
 |---|---|---
 |[65. 有效数字](https://leetcode-cn.com/problems/valid-number/)|[valid-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/65-valid-number.py)|困难
 
-**C++标准库**
+**C++标准库方法**
 |leetcode题目|Python代码|难度|
 |---|---|---
 |[31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/)|[next-permutation](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/31-next-permutation.py)|中等
+|[剑指 Offer 38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)|[zi-fu-chuan-de-pai-lie-lcof](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/38-zi-fu-chuan-de-pai-lie-lcof.py)|中等

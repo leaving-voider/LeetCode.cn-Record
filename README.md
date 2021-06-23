@@ -49,6 +49,7 @@
 |[374. 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)|[guess-number-higher-or-lower](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/374-guess-number-higher-or-lower.py)|简单
 |[852. 山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/)|[peak-index-in-a-mountain-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/852-peak-index-in-a-mountain-array.py)|简单
 |[401. 二进制手表](https://leetcode-cn.com/problems/binary-watch/)|[binary-watch](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/401-binary-watch.py)|简单
+|[剑指 Offer 15. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)|[er-jin-zhi-zhong-1de-ge-shu-lcof](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/15-er-jin-zhi-zhong-1de-ge-shu-lcof.py)|简单
 
 **树**
 |leetcode题目|Python代码|难度|

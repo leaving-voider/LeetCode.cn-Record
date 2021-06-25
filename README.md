@@ -137,6 +137,11 @@
 |---|---|---
 |[65. 有效数字](https://leetcode-cn.com/problems/valid-number/)|[valid-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/65-valid-number.py)|困难
 
+**搜索**
+|leetcode题目|Python代码|难度|
+|---|---|---
+|（广度）[752. 打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/)|[open-the-lock](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/752-open-the-lock.py)|中等
+
 **C++标准库方法**
 |leetcode题目|Python代码|难度|
 |---|---|---

@@ -142,6 +142,7 @@
 |---|---|---
 |（广度）[752. 打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/)|[open-the-lock](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/752-open-the-lock.py)|中等
 |（广度）[773. 滑动谜题](https://leetcode-cn.com/problems/sliding-puzzle/)|[sliding-puzzle](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/773-sliding-puzzle.py)|困难
+|（广度）[909. 蛇梯棋](https://leetcode-cn.com/problems/snakes-and-ladders/)|[snakes-and-ladders](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/909-snakes-and-ladders.py)|中等
 
 **C++标准库方法**
 |leetcode题目|Python代码|难度|

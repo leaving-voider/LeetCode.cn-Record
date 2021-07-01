@@ -146,6 +146,7 @@
 |（广度）[773. 滑动谜题](https://leetcode-cn.com/problems/sliding-puzzle/)|[sliding-puzzle](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/773-sliding-puzzle.py)|困难
 |（广度）[909. 蛇梯棋](https://leetcode-cn.com/problems/snakes-and-ladders/)|[snakes-and-ladders](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/909-snakes-and-ladders.py)|中等
 |（建图+广度）[815. 公交路线](https://leetcode-cn.com/problems/bus-routes/)|[bus-routes](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/815-bus-routes.py)|困难
+|（广、深、动规）[LCP 07. 传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi/)|[chuan-di-xin-xi](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/07-chuan-di-xin-xi.py)|简单
 
 **C++标准库方法**
 |leetcode题目|Python代码|难度|

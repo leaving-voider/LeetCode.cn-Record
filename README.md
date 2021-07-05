@@ -136,6 +136,7 @@
 |leetcode题目|Python代码|难度|
 |---|---|---
 |[1190. 反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|[reverse-substrings-between-each-pair-of-parentheses](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1190-reverse-substrings-between-each-pair-of-parentheses.py)|中等
+|(栈+哈希)[726. 原子的数量](https://leetcode-cn.com/problems/number-of-atoms/)|[number-of-atoms](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/726-number-of-atoms.py)|困难
 
 **自动机**
 |leetcode题目|Python代码|难度|

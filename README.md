@@ -76,6 +76,7 @@
 |[525. 连续数组](https://leetcode-cn.com/problems/contiguous-array/)|[contiguous-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/525-contiguous-array.py)|中等
 |[149. 直线上最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line/)|[max-points-on-a-line](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/149-max-points-on-a-line.py)|困难
 |[1418. 点菜展示表](https://leetcode-cn.com/problems/display-table-of-food-orders-in-a-restaurant/)|[display-table-of-food-orders-in-a-restaurant](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1418-display-table-of-food-orders-in-a-restaurant.py)|中等
+|[1711. 大餐计数](https://leetcode-cn.com/problems/count-good-meals/)|[count-good-meals](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1711-count-good-meals.py)|中等
 
 **双指针**
 |leetcode题目|Python代码|难度|

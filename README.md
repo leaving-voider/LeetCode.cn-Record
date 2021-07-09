@@ -18,7 +18,7 @@
 **算法**
 |leetcode题目|Python代码|难度|
 |---|---|---
-|(Boyer-Moore 投票算法)[面试题 17.10. 主要元素](https://leetcode-cn.com/problems/find-majority-element-lcci/)|[find-majority-element-lcci](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/面试题 17.10-find-majority-element-lcci.py)|简单
+|(Boyer-Moore 投票算法)[面试题 17.10. 主要元素](https://leetcode-cn.com/problems/find-majority-element-lcci/)|[find-majority-element-lcci](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.10-find-majority-element-lcci.py)|简单
 
 **链表**
 |leetcode题目|Python代码|难度|

@@ -15,6 +15,11 @@
 |---|---|---
 |[483. 最小好进制](https://leetcode-cn.com/problems/smallest-good-base/)|[smallest-good-base](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/483-smallest-good-base.py)|困难
 
+**算法**
+|leetcode题目|Python代码|难度|
+|---|---|---
+|(Boyer-Moore 投票算法)[面试题 17.10. 主要元素](https://leetcode-cn.com/problems/find-majority-element-lcci/)|[find-majority-element-lcci](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/面试题 17.10-find-majority-element-lcci.py)|简单
+
 **链表**
 |leetcode题目|Python代码|难度|
 |---|---|---

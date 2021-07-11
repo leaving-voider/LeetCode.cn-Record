@@ -171,3 +171,8 @@
 |---|---|---
 |[31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/)|[next-permutation](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/31-next-permutation.py)|中等
 |[剑指 Offer 38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)|[zi-fu-chuan-de-pai-lie-lcof](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/38-zi-fu-chuan-de-pai-lie-lcof.py)|中等
+
+**周赛**
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[5809. 长度为 3 的不同回文子序列](https://leetcode-cn.com/problems/unique-length-3-palindromic-subsequences/)|[unique-length-3-palindromic-subsequences](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/5809-unique-length-3-palindromic-subsequences.py)|中等

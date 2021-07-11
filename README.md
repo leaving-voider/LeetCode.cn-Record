@@ -20,6 +20,20 @@
 |---|---|---
 |(Boyer-Moore 投票算法)[面试题 17.10. 主要元素](https://leetcode-cn.com/problems/find-majority-element-lcci/)|[find-majority-element-lcci](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.10-find-majority-element-lcci.py)|简单
 
+**排序**
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[274. H 指数](https://leetcode-cn.com/problems/h-index//)|[h-index](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/274-h-index.py)|中等
+
+**二分**
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[面试题 17.08. 马戏团人塔](https://leetcode-cn.com/problems/circus-tower-lcci/)|[circus-tower-lcci](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.08-circus-tower-lcci.py)|中等
+|[354. 俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/)|[russian-doll-envelopes](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/354-russian-doll-envelopes.py)|困难
+|(二分+回溯+剪枝)[1723. 完成所有工作的最短时间](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/)|[find-minimum-time-to-finish-all-jobs](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1723-find-minimum-time-to-finish-all-jobs.py)|困难
+|[1482. 制作 m 束花所需的最少天数](https://leetcode-cn.com/problems/minimum-number-of-days-to-make-m-bouquets/)|[minimum-number-of-days-to-make-m-bouquets](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1482-minimum-number-of-days-to-make-m-bouquets.py)|中等
+|(哈希+二分)[981. 基于时间的键值存储](https://leetcode-cn.com/problems/time-based-key-value-store/)|[time-based-key-value-store](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/981-time-based-key-value-store.py)|中等
+
 **链表**
 |leetcode题目|Python代码|难度|
 |---|---|---
@@ -125,15 +139,6 @@
 |[486. 预测赢家](https://leetcode-cn.com/problems/predict-the-winner/)|[predict-the-winner](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/486-predict-the-winner.py)|中等
 |(含数学)[877. 石子游戏](https://leetcode-cn.com/problems/stone-game/)|[stone-game](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/877-stone-game.py)|中等
 |[1239. 串联字符串的最大长度](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[maximum-length-of-concat-str-with-unique-characters](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1239-maximum-length-of-a-concatenated-string-with-unique-characters.py)|中等
-
-**二分**
-|leetcode题目|Python代码|难度|
-|---|---|---
-|[面试题 17.08. 马戏团人塔](https://leetcode-cn.com/problems/circus-tower-lcci/)|[circus-tower-lcci](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.08-circus-tower-lcci.py)|中等
-|[354. 俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/)|[russian-doll-envelopes](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/354-russian-doll-envelopes.py)|困难
-|(二分+回溯+剪枝)[1723. 完成所有工作的最短时间](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/)|[find-minimum-time-to-finish-all-jobs](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1723-find-minimum-time-to-finish-all-jobs.py)|困难
-|[1482. 制作 m 束花所需的最少天数](https://leetcode-cn.com/problems/minimum-number-of-days-to-make-m-bouquets/)|[minimum-number-of-days-to-make-m-bouquets](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1482-minimum-number-of-days-to-make-m-bouquets.py)|中等
-|(哈希+二分)[981. 基于时间的键值存储](https://leetcode-cn.com/problems/time-based-key-value-store/)|[time-based-key-value-store](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/981-time-based-key-value-store.py)|中等
 
 **贪心**
 |leetcode题目|Python代码|难度|

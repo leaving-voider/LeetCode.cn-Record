@@ -23,7 +23,8 @@
 **排序**
 |leetcode题目|Python代码|难度|
 |---|---|---
-|[274. H 指数](https://leetcode-cn.com/problems/h-index//)|[h-index](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/274-h-index.py)|中等
+|[274. H 指数](https://leetcode-cn.com/problems/h-index/)|[h-index](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/274-h-index.py)|中等
+|(排序or二分)[275. H 指数 II](https://leetcode-cn.com/problems/h-index-ii/)|[h-index-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/275-h-index-ii.py)|中等
 
 **二分**
 |leetcode题目|Python代码|难度|

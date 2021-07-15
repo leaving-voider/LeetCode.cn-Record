@@ -26,6 +26,7 @@
 |---|---|---
 |[274. H 指数](https://leetcode-cn.com/problems/h-index/)|[h-index](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/274-h-index.py)|中等
 |(排序or二分)[275. H 指数 II](https://leetcode-cn.com/problems/h-index-ii/)|[h-index-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/275-h-index-ii.py)|中等
+|[1846. 减小和重新排列数组后的最大元素](https://leetcode-cn.com/problems/maximum-element-after-decreasing-and-rearranging/)|[maximum-element-after-decreasing-and-rearranging](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1846-maximum-element-after-decreasing-and-rearranging.py)|中等
 
 **二分**
 |leetcode题目|Python代码|难度|

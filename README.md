@@ -144,6 +144,8 @@
 |[486. 预测赢家](https://leetcode-cn.com/problems/predict-the-winner/)|[predict-the-winner](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/486-predict-the-winner.py)|中等
 |(含数学)[877. 石子游戏](https://leetcode-cn.com/problems/stone-game/)|[stone-game](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/877-stone-game.py)|中等
 |[1239. 串联字符串的最大长度](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[maximum-length-of-concat-str-with-unique-characters](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1239-maximum-length-of-a-concatenated-string-with-unique-characters.py)|中等
+|[剑指 Offer 42. 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)|[lian-xu-zi-shu-zu-de-zui-da-he-lcof](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/42-lian-xu-zi-shu-zu-de-zui-da-he-lcof.py)|简单
+
 
 **贪心**
 |leetcode题目|Python代码|难度|

@@ -114,6 +114,7 @@
 |（大小根堆）[480. 滑动窗口中位数](https://leetcode-cn.com/problems/sliding-window-median/)|[sliding-window-median](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/480-sliding-window-median.py)|困难
 |（双左指针）[992. K个不同整数的子数组](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/)|[subarrays-with-k-different-integers](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/992-subarrays-with-k-different-integers.py)|困难
 |（哈希or双左指针）[930. 和相同的二元子数组](https://leetcode-cn.com/problems/binary-subarrays-with-sum/)|[binary-subarrays-with-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/930-binary-subarrays-with-sum.py)|中等
+|[1838. 最高频元素的频数](https://leetcode-cn.com/problems/frequency-of-the-most-frequent-element/)|[frequency-of-the-most-frequent-element](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1838-frequency-of-the-most-frequent-element.py)|中等
 
 **并查集（图）**
 |leetcode题目|Python代码|难度|

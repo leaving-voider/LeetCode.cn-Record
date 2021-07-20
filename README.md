@@ -154,6 +154,7 @@
 |---|---|---
 |[1353. 最多可以参加的会议数目](https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended/)|[maximum-number-of-events-that-can-be-attended](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1353-maximum-number-of-events-that-can-be-attended.py)|中等
 |[1833. 雪糕的最大数量](https://leetcode-cn.com/problems/maximum-ice-cream-bars/)|[maximum-ice-cream-bars](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1833-maximum-ice-cream-bars.py)|中等
+|[1877. 数组中最大数对和的最小值](https://leetcode-cn.com/problems/minimize-maximum-pair-sum-in-array/)|[minimize-maximum-pair-sum-in-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1877-minimize-maximum-pair-sum-in-array.py)|中等
 
 **栈**
 |leetcode题目|Python代码|难度|

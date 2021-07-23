@@ -21,6 +21,11 @@
 |(Boyer-Moore 投票算法)[面试题 17.10. 主要元素](https://leetcode-cn.com/problems/find-majority-element-lcci/)|[find-majority-element-lcci](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.10-find-majority-element-lcci.py)|简单
 |(扫描线)[218. 天际线问题](https://leetcode-cn.com/problems/the-skyline-problem/)|[the-skyline-problem](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/218-the-skyline-problem.py)|困难
 
+**区间合并**
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[1893. 检查是否区域内所有整数都被覆盖](https://leetcode-cn.com/problems/check-if-all-the-integers-in-a-range-are-covered/)|[check-if-all-the-integers-in-a-range-are-covered](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1893-check-if-all-the-integers-in-a-range-are-covered.py)|简单
+
 **排序**
 |leetcode题目|Python代码|难度|
 |---|---|---

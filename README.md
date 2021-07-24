@@ -84,6 +84,7 @@
 |[剑指 Offer 15. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)|[er-jin-zhi-zhong-1de-ge-shu-lcof](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/15-er-jin-zhi-zhong-1de-ge-shu-lcof.py)|简单
 |[451. 根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)|[sort-characters-by-frequency](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/451-sort-characters-by-frequency.py)|中等
 |[645. 错误的集合](https://leetcode-cn.com/problems/set-mismatch/)|[set-mismatch](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/645-set-mismatch.py)|简单
+|[1736. 替换隐藏数字得到的最晚时间](https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits/)|[latest-time-by-replacing-hidden-digits](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1736-latest-time-by-replacing-hidden-digits.py)|简单
 
 **树**
 |leetcode题目|Python代码|难度|

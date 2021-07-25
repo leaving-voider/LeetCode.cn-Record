@@ -110,6 +110,7 @@
 |[1418. 点菜展示表](https://leetcode-cn.com/problems/display-table-of-food-orders-in-a-restaurant/)|[display-table-of-food-orders-in-a-restaurant](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1418-display-table-of-food-orders-in-a-restaurant.py)|中等
 |[1711. 大餐计数](https://leetcode-cn.com/problems/count-good-meals/)|[count-good-meals](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1711-count-good-meals.py)|中等
 |[1818. 绝对差值和](https://leetcode-cn.com/problems/minimum-absolute-sum-difference/)|[minimum-absolute-sum-difference](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1818-minimum-absolute-sum-difference.py)|中等
+|[1743. 从相邻元素对还原数组](https://leetcode-cn.com/problems/restore-the-array-from-adjacent-pairs/)|[restore-the-array-from-adjacent-pairs](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1743-restore-the-array-from-adjacent-pairs.py)|中等
 
 **双指针**
 |leetcode题目|Python代码|难度|

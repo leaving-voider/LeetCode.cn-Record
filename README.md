@@ -43,6 +43,7 @@
 |[1482. 制作 m 束花所需的最少天数](https://leetcode-cn.com/problems/minimum-number-of-days-to-make-m-bouquets/)|[minimum-number-of-days-to-make-m-bouquets](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1482-minimum-number-of-days-to-make-m-bouquets.py)|中等
 |(哈希+二分)[981. 基于时间的键值存储](https://leetcode-cn.com/problems/time-based-key-value-store/)|[time-based-key-value-store](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/981-time-based-key-value-store.py)|中等
 |[剑指 Offer 53 - I. 在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)|[zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/53-zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof.py)|简单
+|(哈希+贪心+二分)[1713. 得到子序列的最少操作次数](https://leetcode-cn.com/problems/minimum-operations-to-make-a-subsequence/)|[minimum-operations-to-make-a-subsequence](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1713-minimum-operations-to-make-a-subsequence.py)|困难
 
 **链表**
 |leetcode题目|Python代码|难度|

@@ -186,6 +186,7 @@
 |（建图+广度）[815. 公交路线](https://leetcode-cn.com/problems/bus-routes/)|[bus-routes](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/815-bus-routes.py)|困难
 |（广、深、动规）[LCP 07. 传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi/)|[chuan-di-xin-xi](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/07-chuan-di-xin-xi.py)|简单
 |（广or深）[671. 二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/)|[second-minimum-node-in-a-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/671-second-minimum-node-in-a-binary-tree.py)|简单
+|（邻接表+DFS）[863. 二叉树中所有距离为 K 的结点](https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree/)|[all-nodes-distance-k-in-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/863-all-nodes-distance-k-in-binary-tree.py)|中等
 
 **C++标准库方法**
 |leetcode题目|Python代码|难度|

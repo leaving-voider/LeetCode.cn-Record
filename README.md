@@ -96,6 +96,7 @@
 |[1707. 与数组中元素的最大异或值](https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array/)|[maximum-xor-with-an-element-from-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1707-maximum-xor-with-an-element-from-array.py)|困难
 |[1600. 皇位继承顺序](https://leetcode-cn.com/problems/throne-inheritance/)|[throne-inheritance](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1600-throne-inheritance.py)|中等
 |[剑指 Offer 37. 序列化二叉树](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/)|[xu-lie-hua-er-cha-shu-lcof](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/37-xu-lie-hua-er-cha-shu-lcof.py)|困难
+|[1104. 二叉树寻路](https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree/)|[path-in-zigzag-labelled-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1104-path-in-zigzag-labelled-binary-tree.py)|中等
 
 **哈希表**
 |leetcode题目|Python代码|难度|

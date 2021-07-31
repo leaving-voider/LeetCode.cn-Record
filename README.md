@@ -9,6 +9,11 @@
 |---|---|---
 |[329. 矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/)|[longest-increasing-path-in-a-matrix](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/329-longest-increasing-path-in-a-matrix.py)|困难
 
+### 贪心
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[1509. 三次操作后最大值与最小值的最小差](https://leetcode-cn.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/)|[minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves.py)|中等
+
 ## 旧分类法Record
 **基础数学**
 |leetcode题目|Python代码|难度|

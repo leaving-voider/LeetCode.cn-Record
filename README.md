@@ -3,6 +3,11 @@
 本项目用于记录个人LeetCode刷题代码，采用python语言，代码包含一定注释
 
 ## AcWing分类法Record
+### 基础算法
+|leetcode题目|Python代码|难度|
+|---|---|---
+|(前缀和+归并排序)[327. 区间和的个数](https://leetcode-cn.com/problems/count-of-range-sum/)|[count-of-range-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/327-count-of-range-sum.py)|困难
+
 ### 动态规划
 **记忆化搜索**
 |leetcode题目|Python代码|难度|

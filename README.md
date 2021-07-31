@@ -2,7 +2,14 @@
 ## Introduction
 本项目用于记录个人LeetCode刷题代码，采用python语言，代码包含一定注释
 
-## Record
+## AcWing分类法Record
+### 动态规划
+**记忆化搜索**
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[329. 矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/)|[longest-increasing-path-in-a-matrix](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/329-longest-increasing-path-in-a-matrix.py)|困难
+
+## 旧分类法Record
 **基础数学**
 |leetcode题目|Python代码|难度|
 |---|---|---

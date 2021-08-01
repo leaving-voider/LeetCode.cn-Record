@@ -50,6 +50,7 @@
 |(排序or二分)[275. H 指数 II](https://leetcode-cn.com/problems/h-index-ii/)|[h-index-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/275-h-index-ii.py)|中等
 |[1846. 减小和重新排列数组后的最大元素](https://leetcode-cn.com/problems/maximum-element-after-decreasing-and-rearranging/)|[maximum-element-after-decreasing-and-rearranging](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1846-maximum-element-after-decreasing-and-rearranging.py)|中等
 |[面试题 10.02. 变位词组](https://leetcode-cn.com/problems/group-anagrams-lcci/)|[group-anagrams-lcci](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/10.02-group-anagrams-lcci.py)|中等
+|[1337. 矩阵中战斗力最弱的 K 行](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/)|[the-k-weakest-rows-in-a-matrix](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1337-the-k-weakest-rows-in-a-matrix.py)|简单
 
 **二分**
 |leetcode题目|Python代码|难度|

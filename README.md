@@ -8,6 +8,12 @@
 |---|---|---
 |(前缀和+归并排序)[327. 区间和的个数](https://leetcode-cn.com/problems/count-of-range-sum/)|[count-of-range-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/327-count-of-range-sum.py)|困难
 
+### 基础算法
+**堆优化**
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[1801. 积压订单中的订单总数](https://leetcode-cn.com/problems/number-of-orders-in-the-backlog/)|[number-of-orders-in-the-backlog](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1801-number-of-orders-in-the-backlog.py)|中等
+
 ### 动态规划
 **记忆化搜索**
 |leetcode题目|Python代码|难度|

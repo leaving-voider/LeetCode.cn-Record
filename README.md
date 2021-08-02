@@ -17,9 +17,15 @@
 |[1801. 积压订单中的订单总数](https://leetcode-cn.com/problems/number-of-orders-in-the-backlog/)|[number-of-orders-in-the-backlog](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1801-number-of-orders-in-the-backlog.py)|中等
 
 ### 搜索与图论
+**DFS**
 |leetcode题目|Python代码|难度|
 |---|---|---
 |[51. N 皇后](https://leetcode-cn.com/problems/n-queens/)|[n-queens](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/51-n-queens.py)|困难
+
+**最短路**
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[743. 网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/)|[network-delay-time](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/743-network-delay-time.py)|中等
 
 ### 动态规划
 **记忆化搜索**

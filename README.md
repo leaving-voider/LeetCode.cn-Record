@@ -9,6 +9,7 @@
 |(前缀和+归并排序)[327. 区间和的个数](https://leetcode-cn.com/problems/count-of-range-sum/)|[count-of-range-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/327-count-of-range-sum.py)|困难
 |(排序+双指针)[1. 两数之和](https://leetcode-cn.com/problems/two-sum/)|[two-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1-two-sum.py)|简单
 |(类似高精度加法)[2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)|[add-two-numbers](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/2-add-two-numbers.py)|简单
+|(双指针+哈希)[3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)|[longest-substring-without-repeating-characters](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/3-longest-substring-without-repeating-characters.py)|中等
 
 ### 数据结构
 **堆优化**

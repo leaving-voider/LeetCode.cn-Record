@@ -35,6 +35,11 @@
 |[1489. 找到最小生成树里的关键边和伪关键边](https://leetcode-cn.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)|[find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree.py)|困难
 
 ### 动态规划
+**线性DP**
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[10. 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)|[regular-expression-matching](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/10-regular-expression-matching.py)|困难
+
 **区间DP**
 |leetcode题目|Python代码|难度|
 |---|---|---

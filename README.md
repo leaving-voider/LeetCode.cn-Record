@@ -27,6 +27,11 @@
 |---|---|---
 |[743. 网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/)|[network-delay-time](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/743-network-delay-time.py)|中等
 
+**最小生成树**
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[1489. 找到最小生成树里的关键边和伪关键边](https://leetcode-cn.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)|[find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree.py)|困难
+
 ### 动态规划
 **记忆化搜索**
 |leetcode题目|Python代码|难度|

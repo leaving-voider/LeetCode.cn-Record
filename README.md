@@ -16,6 +16,11 @@
 |(排序+哈希+双指针)[15. 三数之和](https://leetcode-cn.com/problems/3sum/)|[3sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/15-3sum.py)|中等
 
 ### 数据结构
+**栈**
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)|[valid-parentheses](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/20-valid-parentheses.py)|简单
+
 **堆优化**
 |leetcode题目|Python代码|难度|
 |---|---|---

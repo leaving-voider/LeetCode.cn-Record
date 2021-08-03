@@ -14,6 +14,7 @@
 |(排序)[581. 最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/)|[shortest-unsorted-continuous-subarray](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/581-shortest-unsorted-continuous-subarray.py)|中等
 |(双指针)[11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)|[container-with-most-water](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/11-container-with-most-water.py)|中等
 |(排序+哈希+双指针)[15. 三数之和](https://leetcode-cn.com/problems/3sum/)|[3sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/15-3sum.py)|中等
+|(归并思想)[21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[merge-two-sorted-lists](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/21-merge-two-sorted-lists.py)|简单
 
 ### 数据结构
 **栈**

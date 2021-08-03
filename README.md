@@ -26,7 +26,7 @@
 |leetcode题目|Python代码|难度|
 |---|---|---
 |[1801. 积压订单中的订单总数](https://leetcode-cn.com/problems/number-of-orders-in-the-backlog/)|[number-of-orders-in-the-backlog](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1801-number-of-orders-in-the-backlog.py)|中等
-|(堆优化)[23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)|[merge-k-sorted-lists](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/23-merge-k-sorted-lists.py)|困难
+|(堆排序)[23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)|[merge-k-sorted-lists](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/23-merge-k-sorted-lists.py)|困难
 
 ### 搜索与图论
 **DFS**

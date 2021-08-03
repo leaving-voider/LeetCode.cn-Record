@@ -33,6 +33,7 @@
 |---|---|---
 |[51. N 皇后](https://leetcode-cn.com/problems/n-queens/)|[n-queens](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/51-n-queens.py)|困难
 |[17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)|[letter-combinations-of-a-phone-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/17-letter-combinations-of-a-phone-number.py)|中等
+|[22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)|[generate-parentheses](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/22-generate-parentheses.py)|中等
 
 **最短路**
 |leetcode题目|Python代码|难度|

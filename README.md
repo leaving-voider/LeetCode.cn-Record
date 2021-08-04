@@ -16,9 +16,12 @@
 |(排序+哈希+双指针)[15. 三数之和](https://leetcode-cn.com/problems/3sum/)|[3sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/15-3sum.py)|中等
 |(归并思想)[21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[merge-two-sorted-lists](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/21-merge-two-sorted-lists.py)|简单
 |(排序+双指针or排序+二分)[611. 有效三角形的个数](https://leetcode-cn.com/problems/valid-triangle-number/)|[valid-triangle-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/611-valid-triangle-number.py)|中等
-|(矩阵前缀和+二分or动规)[221. 最大正方形](https://leetcode-cn.com/problems/maximal-square/)|[maximal-square](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/221-maximal-square.py)|中等
+|(矩阵前缀和+二分or线性dp)[221. 最大正方形](https://leetcode-cn.com/problems/maximal-square/)|[maximal-square](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/221-maximal-square.py)|中等
 
 ### 数据结构
+**堆**
+|(堆or线性dp)[32. 最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)|[longest-valid-parentheses](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/32-longest-valid-parentheses.py)|困难
+
 **栈**
 |leetcode题目|Python代码|难度|
 |---|---|---

@@ -20,6 +20,8 @@
 
 ### 数据结构
 **堆**
+|leetcode题目|Python代码|难度|
+|---|---|---
 |(堆or线性dp)[32. 最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)|[longest-valid-parentheses](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/32-longest-valid-parentheses.py)|困难
 
 **栈**

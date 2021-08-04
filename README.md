@@ -17,6 +17,7 @@
 |(归并思想)[21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[merge-two-sorted-lists](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/21-merge-two-sorted-lists.py)|简单
 |(排序+双指针or排序+二分)[611. 有效三角形的个数](https://leetcode-cn.com/problems/valid-triangle-number/)|[valid-triangle-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/611-valid-triangle-number.py)|中等
 |(矩阵前缀和+二分or线性dp)[221. 最大正方形](https://leetcode-cn.com/problems/maximal-square/)|[maximal-square](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/221-maximal-square.py)|中等
+|(二分)[33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)|[search-in-rotated-sorted-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/33-search-in-rotated-sorted-array.py)|中等
 
 ### 数据结构
 **堆**

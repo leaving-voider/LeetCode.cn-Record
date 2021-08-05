@@ -19,6 +19,7 @@
 |(矩阵前缀和+二分or线性dp)[221. 最大正方形](https://leetcode-cn.com/problems/maximal-square/)|[maximal-square](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/221-maximal-square.py)|中等
 |(二分)[33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)|[search-in-rotated-sorted-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/33-search-in-rotated-sorted-array.py)|中等
 |(二分)[34. 排序数组找元素第一和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[find-first-and-last-pos-of-elemt-in-sorted-arr](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/34-find-first-and-last-position-of-element-in-sorted-array.py)|中等
+|(单指针)[42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)|[trapping-rain-water](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/42-trapping-rain-water.py)|中等
 
 ### 数据结构
 **堆**

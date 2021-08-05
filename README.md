@@ -69,6 +69,7 @@
 |leetcode题目|Python代码|难度|
 |---|---|---
 |[10. 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)|[regular-expression-matching](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/10-regular-expression-matching.py)|困难
+|[53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)|[maximum-subarray](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/53-maximum-subarray.py)|简单
 
 **区间DP**
 |leetcode题目|Python代码|难度|

@@ -46,6 +46,7 @@
 |[17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)|[letter-combinations-of-a-phone-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/17-letter-combinations-of-a-phone-number.py)|中等
 |[22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)|[generate-parentheses](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/22-generate-parentheses.py)|中等
 |[39. 组合总和](https://leetcode-cn.com/problems/combination-sum/)|[combination-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/39-combination-sum.py)|中等
+|[46. 全排列](https://leetcode-cn.com/problems/permutations/)|[permutations](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/46-permutations.py)|中等
 
 **拓扑排序**
 |leetcode题目|Python代码|难度|

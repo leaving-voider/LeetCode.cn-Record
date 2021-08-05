@@ -18,7 +18,7 @@
 |(排序+双指针or排序+二分)[611. 有效三角形的个数](https://leetcode-cn.com/problems/valid-triangle-number/)|[valid-triangle-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/611-valid-triangle-number.py)|中等
 |(矩阵前缀和+二分or线性dp)[221. 最大正方形](https://leetcode-cn.com/problems/maximal-square/)|[maximal-square](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/221-maximal-square.py)|中等
 |(二分)[33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)|[search-in-rotated-sorted-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/33-search-in-rotated-sorted-array.py)|中等
-|(二分)[34. 排序数组中查找元素第一和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[find-first-and-last-position-of-element-in-sorted-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/34-find-first-and-last-position-of-element-in-sorted-array.py)|中等
+|(二分)[34. 排序数组找元素第一和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[find-first-and-last-position-of-element-in-sorted-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/34-find-first-and-last-position-of-element-in-sorted-array.py)|中等
 
 ### 数据结构
 **堆**

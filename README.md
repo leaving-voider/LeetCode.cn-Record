@@ -172,6 +172,7 @@
 |[1736. 替换隐藏数字得到的最晚时间](https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits/)|[latest-time-by-replacing-hidden-digits](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1736-latest-time-by-replacing-hidden-digits.py)|简单
 |[171. Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/)|[excel-sheet-column-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/171-excel-sheet-column-number.py)|简单
 |[202. 快乐数](https://leetcode-cn.com/problems/happy-number/)|[happy-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/202-happy-number.py)|简单
+|[48. 旋转图像](https://leetcode-cn.com/problems/rotate-image/)|[rotate-image](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/48-rotate-image.py)|中等
 
 **树**
 |leetcode题目|Python代码|难度|

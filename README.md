@@ -22,6 +22,7 @@
 |(单指针)[42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)|[trapping-rain-water](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/42-trapping-rain-water.py)|中等
 |(排序+哈希or字符集编码)[49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)|[group-anagrams](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/49-group-anagrams.py)|中等
 |(区间合并)[56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/)|[merge-intervals](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/56-merge-intervals.py)|中等
+|(排序or荷兰国旗问题)[75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/)|[sort-colors](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/75-sort-colors.py)|中等
 
 ### 数据结构
 **堆**

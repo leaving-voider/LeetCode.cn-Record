@@ -79,6 +79,11 @@
 |---|---|---
 |[5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)|[longest-palindromic-substring](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/5-longest-palindromic-substring.py)|中等
 
+**计数类DP**
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)|[climbing-stairs](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/70-climbing-stairs.py)|简单
+
 **状态压缩DP**
 |leetcode题目|Python代码|难度|
 |---|---|---

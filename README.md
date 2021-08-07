@@ -53,6 +53,7 @@
 |[39. 组合总和](https://leetcode-cn.com/problems/combination-sum/)|[combination-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/39-combination-sum.py)|中等
 |[46. 全排列](https://leetcode-cn.com/problems/permutations/)|[permutations](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/46-permutations.py)|中等
 |[78. 子集](https://leetcode-cn.com/problems/subsets/)|[subsets](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/78-subsets.py)|中等
+|[79. 单词搜索](https://leetcode-cn.com/problems/word-search/)|[word-search](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/79-word-search.py)|中等
 
 **拓扑排序**
 |leetcode题目|Python代码|难度|

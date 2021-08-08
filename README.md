@@ -114,6 +114,7 @@
 |[231. 2 的幂](https://leetcode-cn.com/problems/power-of-two/)|[power-of-two](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/231-power-of-two.py)|简单
 |[342. 4的幂](https://leetcode-cn.com/problems/power-of-four/)|[power-of-four](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/342-power-of-four.py)|简单
 |[168. Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/)|[excel-sheet-column-title](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/168-excel-sheet-column-title.py)|简单
+|[1137. 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/)|[n-th-tribonacci-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1137-n-th-tribonacci-number.py)|简单
 
 **进阶数学**
 |leetcode题目|Python代码|难度|

@@ -81,6 +81,7 @@
 |(素朴DPor01背包DPor数学)[62. 不同路径](https://leetcode-cn.com/problems/unique-paths/)|[unique-paths](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/62-unique-paths.py)|中等
 |[64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)|[minimum-path-sum](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/64-minimum-path-sum.py)|中等
 |[72. 编辑距离](https://leetcode-cn.com/problems/edit-distance/)|[edit-distance](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/72-edit-distance.py)|困难
+|[96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)|[unique-binary-search-trees](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/96-unique-binary-search-trees.py)|中等
 
 **区间DP**
 |leetcode题目|Python代码|难度|

@@ -216,6 +216,7 @@
 |[1104. 二叉树寻路](https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree/)|[path-in-zigzag-labelled-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1104-path-in-zigzag-labelled-binary-tree.py)|中等
 |[987. 二叉树的垂序遍历](https://leetcode-cn.com/problems/vertical-order-traversal-of-a-binary-tree/)|[vertical-order-traversal-of-a-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/987-vertical-order-traversal-of-a-binary-tree.py)|困难
 |[94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|[binary-tree-inorder-traversal](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/94-binary-tree-inorder-traversal.py)|简单
+|[104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)|[maximum-depth-of-binary-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/104-maximum-depth-of-binary-tree.py)|简单
 
 **哈希表**
 |leetcode题目|Python代码|难度|

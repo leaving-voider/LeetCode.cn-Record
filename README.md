@@ -205,6 +205,7 @@
 |[171. Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/)|[excel-sheet-column-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/171-excel-sheet-column-number.py)|简单
 |[202. 快乐数](https://leetcode-cn.com/problems/happy-number/)|[happy-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/202-happy-number.py)|简单
 |[48. 旋转图像](https://leetcode-cn.com/problems/rotate-image/)|[rotate-image](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/48-rotate-image.py)|中等
+|[121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[best-time-to-buy-and-sell-stock](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/121-best-time-to-buy-and-sell-stock.py)|简单
 
 **树**
 |leetcode题目|Python代码|难度|

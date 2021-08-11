@@ -99,6 +99,7 @@
 |leetcode题目|Python代码|难度|
 |---|---|---
 |[70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)|[climbing-stairs](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/70-climbing-stairs.py)|简单
+|[446. 等差数列划分 II - 子序列](https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence/)|[arithmetic-slices-ii-subsequence](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/446-arithmetic-slices-ii-subsequence.py)|困难
 
 **状态压缩DP**
 |leetcode题目|Python代码|难度|

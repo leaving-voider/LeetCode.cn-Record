@@ -94,6 +94,7 @@
 |leetcode题目|Python代码|难度|
 |---|---|---
 |[5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)|[longest-palindromic-substring](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/5-longest-palindromic-substring.py)|中等
+|[516. 最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)|[longest-palindromic-subsequence](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/516-longest-palindromic-subsequence.py)|中等
 
 **计数类DP**
 |leetcode题目|Python代码|难度|

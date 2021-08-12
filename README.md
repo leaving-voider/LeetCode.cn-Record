@@ -45,6 +45,7 @@
 |[1801. 积压订单中的订单总数](https://leetcode-cn.com/problems/number-of-orders-in-the-backlog/)|[number-of-orders-in-the-backlog](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1801-number-of-orders-in-the-backlog.py)|中等
 |(堆排序)[23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)|[merge-k-sorted-lists](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/23-merge-k-sorted-lists.py)|困难
 |[313. 超级丑数](https://leetcode-cn.com/problems/super-ugly-number/)|[super-ugly-number](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/313-super-ugly-number.py)|中等
+|(堆排序or哈希)[128. 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/)|[longest-consecutive-sequence](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/128-longest-consecutive-sequence.py)|中等
 
 ### 搜索与图论
 **DFS**

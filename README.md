@@ -103,6 +103,11 @@
 |[70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)|[climbing-stairs](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/70-climbing-stairs.py)|简单
 |[446. 等差数列划分 II - 子序列](https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence/)|[arithmetic-slices-ii-subsequence](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/446-arithmetic-slices-ii-subsequence.py)|困难
 
+**数位统计DP**
+|leetcode题目|Python代码|难度|
+|---|---|---
+|[233. 数字 1 的个数](https://leetcode-cn.com/problems/number-of-digit-one/)|[number-of-digit-one](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/233-number-of-digit-one.py)|困难
+
 **状态压缩DP**
 |leetcode题目|Python代码|难度|
 |---|---|---

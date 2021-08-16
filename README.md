@@ -112,7 +112,7 @@
 |leetcode题目|Python代码|难度|
 |---|---|---
 |(状压DPorBFS求不带权图Hamilton最短路)[847. 访问所有节点的最短路径](https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/)|[shortest-path-visiting-all-nodes](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/847-shortest-path-visiting-all-nodes.py)|困难
-|[526. 优美的排列](https://leetcode-cn.com/problems/beautiful-arrangement/)|[beautiful-arrangement](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/526-beautiful-arrangement.py)|中等
+|(状压DPorDFS)[526. 优美的排列](https://leetcode-cn.com/problems/beautiful-arrangement/)|[beautiful-arrangement](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/526-beautiful-arrangement.py)|中等
 
 **记忆化搜索**
 |leetcode题目|Python代码|难度|

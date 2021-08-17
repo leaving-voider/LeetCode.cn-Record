@@ -218,6 +218,7 @@
 |[48. 旋转图像](https://leetcode-cn.com/problems/rotate-image/)|[rotate-image](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/48-rotate-image.py)|中等
 |[121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[best-time-to-buy-and-sell-stock](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/121-best-time-to-buy-and-sell-stock.py)|简单
 |[413. 等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/)|[arithmetic-slices](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/413-arithmetic-slices.py)|中等
+|[551. 学生出勤记录 I](https://leetcode-cn.com/problems/student-attendance-record-i/)|[student-attendance-record-i](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/551-student-attendance-record-i.py)|简单
 
 **树**
 |leetcode题目|Python代码|难度|

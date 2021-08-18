@@ -80,6 +80,12 @@
 |---|---|---
 |[1489. 找到最小生成树里的关键边和伪关键边](https://leetcode-cn.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)|[find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree.py)|困难
 
+### 数学知识
+**快速幂**
+|leetcode题目|Python代码|难度|
+|---|---|---
+|(矩阵快速幂or线性DPor记忆化DP)[552. 学生出勤记录 II](https://leetcode-cn.com/problems/student-attendance-record-ii/)|[student-attendance-record-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/552-student-attendance-record-ii.py)|困难
+
 ### 动态规划
 **线性DP**
 |leetcode题目|Python代码|难度|

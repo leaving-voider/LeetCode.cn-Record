@@ -125,6 +125,7 @@
 |---|---|---
 |[329. 矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/)|[longest-increasing-path-in-a-matrix](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/329-longest-increasing-path-in-a-matrix.py)|困难
 |[576. 出界的路径数](https://leetcode-cn.com/problems/out-of-boundary-paths/)|[out-of-boundary-paths](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/576-out-of-boundary-paths.py)|中等
+|[1646. 获取生成数组中的最大值](https://leetcode-cn.com/problems/get-maximum-in-generated-array/)|[get-maximum-in-generated-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1646-get-maximum-in-generated-array.py)|简单
 
 ### 贪心
 |leetcode题目|Python代码|难度|

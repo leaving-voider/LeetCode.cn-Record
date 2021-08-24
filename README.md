@@ -73,7 +73,8 @@
 **最短路**
 |leetcode题目|Python代码|难度|
 |---|---|---
-|[743. 网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/)|[network-delay-time](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/743-network-delay-time.py)|中等
+|(朴素dijkstraorSPFA)[743. 网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/)|[network-delay-time](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/743-network-delay-time.py)|中等
+|(bellman_ford)[787. K 站中转内最便宜的航班](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/)|[cheapest-flights-within-k-stops](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/787-cheapest-flights-within-k-stops.py)|中等
 
 **最小生成树**
 |leetcode题目|Python代码|难度|

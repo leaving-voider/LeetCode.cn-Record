@@ -134,6 +134,7 @@
 |---|---|---
 |[1509. 三次操作后最大值与最小值的最小差](https://leetcode-cn.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/)|[minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves.py)|中等
 |[55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)|[jump-game](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/55-jump-game.py)|中等
+|[881. 救生艇](https://leetcode-cn.com/problems/boats-to-save-people/)|[boats-to-save-people](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/881-boats-to-save-people.py)|中等
 
 ## 旧分类法Record
 **基础数学**

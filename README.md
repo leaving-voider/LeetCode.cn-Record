@@ -33,6 +33,7 @@
 |leetcode题目|Python代码|难度|
 |---|---|---
 |(堆or线性dp)[32. 最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)|[longest-valid-parentheses](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/32-longest-valid-parentheses.py)|困难
+|(大小根堆)[295. 数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/)|[find-median-from-data-stream](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/295-find-median-from-data-stream.py)|困难
 
 **栈**
 |leetcode题目|Python代码|难度|

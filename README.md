@@ -234,6 +234,7 @@
 |[345. 反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)|[reverse-vowels-of-a-string](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/345-reverse-vowels-of-a-string.py)|简单
 |[541. 反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/)|[reverse-string-ii](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/541-reverse-string-ii.py)|简单
 |[443. 压缩字符串](https://leetcode-cn.com/problems/string-compression/)|[string-compression](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/443-string-compression.py)|中等
+|[1480. 一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array/)|[running-sum-of-1d-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1480-running-sum-of-1d-array.py)|简单
 
 **树**
 |leetcode题目|Python代码|难度|

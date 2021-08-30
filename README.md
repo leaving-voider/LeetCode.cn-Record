@@ -27,6 +27,7 @@
 |(单指针)[457. 环形数组是否存在循环](https://leetcode-cn.com/problems/circular-array-loop/)|[circular-array-loop](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/457-circular-array-loop.py)|中等
 |(单调栈or分治+递归)[84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)|[largest-rectangle-in-histogram](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/84-largest-rectangle-in-histogram.py)|困难
 |(单调栈)[85. 最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/)|[maximal-rectangle](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/85-maximal-rectangle.py)|困难
+|(前缀和+二分)[528. 按权重随机选择](https://leetcode-cn.com/problems/random-pick-with-weight/)|[random-pick-with-weight](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/528-random-pick-with-weight.py)|中等
 
 ### 数据结构
 **堆**

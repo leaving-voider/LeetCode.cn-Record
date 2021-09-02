@@ -193,6 +193,7 @@
 |[剑指 Offer 52. 两个链表的第一个公共节点](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/)|[liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/52-liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof.py)|简单
 |[138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)|[copy-list-with-random-pointer](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/138-copy-list-with-random-pointer.py)|中等
 |[19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)|[remove-nth-node-from-end-of-list](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/19-remove-nth-node-from-end-of-list.py)|中等
+|[剑指 Offer 22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)|[lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.py)|简单
 
 **数组和字符串**
 |leetcode题目|Python代码|难度|

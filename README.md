@@ -241,6 +241,7 @@
 |[1480. 一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array/)|[running-sum-of-1d-array](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1480-running-sum-of-1d-array.py)|简单
 |[1588. 所有奇数长度子数组的和](https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/)|[sum-of-all-odd-length-subarrays](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/1588-sum-of-all-odd-length-subarrays.py)|简单
 |[165. 比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/)|[compare-version-numbers](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/165-compare-version-numbers.py)|中等
+|[剑指 Offer 10- I. 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)|[fei-bo-na-qi-shu-lie-lcof](https://github.com/leaving-voider/LeetCode-Record/blob/main/LeetCode/10-fei-bo-na-qi-shu-lie-lcof.py)|简单
 
 **树**
 |leetcode题目|Python代码|难度|

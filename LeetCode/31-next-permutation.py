@@ -23,3 +23,29 @@ class Solution:
             nums[left], nums[right] = nums[right], nums[left]
             left += 1
             right -= 1
+
+# 带英文注释
+class Solution:
+    def nextPermutation(self, s: List[int]) -> None:
+        # step 1: find the smaller one that should be at as right as possible
+        i = len(s) - 2
+        while i>=0 and s[i] >= s[i+1]:
+            i -= 1
+
+        # step 2: if the smaller one is found
+        if i >= 0:
+            # find the larger one that should be as small as possible and be at the right of the smaller one
+            j = len(s) - 1
+            # the larger one must be found
+            while i <= j and s[i] >= s[j]:
+                j -= 1
+            # step 3: exchange then we get the next permutation
+            s[i], s[j] = s[j], s[i]
+
+        # step 4: the numbers in range of [i+1, len(s) - 1] is in large-to-small
+        # we inverse it to get the next smallest permutation (still than prev one)
+        left, right = i+1, len(s) - 1
+        while left < right:
+            s[left], s[right] = s[right], s[left]
+            left += 1
+            right -= 1
